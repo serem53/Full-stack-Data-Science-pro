@@ -19,7 +19,7 @@ In this section, you'll find assignments I completed during my learning journey.
 
 1. [Assignment  1](assignments/20th_August_Python_Variables.ipynb)
 2. [Assignment  2](assignments/Python_practice.ipynb)
-3. [Assignment  3](assignments/For_loop.ipynb)
+3. [Assignment  3](assignments/For_Loop.ipynb)
 
 
 ## Contributions
