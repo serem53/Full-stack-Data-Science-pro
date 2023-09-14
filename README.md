@@ -18,7 +18,8 @@ I'm passionate about data science and its applications across various domains. T
 In this section, you'll find assignments I completed during my learning journey. These assignments cover a wide range of topics and technologies in the field of data science.
 
 1. [Assignment  1](assignments/20th_August_Python_Variables.ipynb)
-1. [Assignment  2](assignments/Python_practice.ipynb)
+2. [Assignment  2](assignments/Python_practice.ipynb)
+3. [Assignment  3](assignments/For_loop.ipynb)
 
 
 ## Contributions
