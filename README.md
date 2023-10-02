@@ -21,6 +21,7 @@ In this section, you'll find assignments I completed during my learning journey.
 2. [Assignment  2](assignments/Python_practice.ipynb)
 3. [Assignment  3](assignments/For_Loop.ipynb)
 4. [Assignment  4](assignments/Control_Flow.ipynb)
+5. [Assignment  5](assignments/python_assignment.ipynb)
 
 
 ## Contributions
