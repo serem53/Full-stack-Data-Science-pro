@@ -24,7 +24,7 @@ In this section, you'll find assignments I completed during my learning journey.
 5. [Assignment  5](assignments/python_assignment.ipynb)
 6. [Assignment  6](assignments/class_practice.ipynb)
 7. [Assignment  7](assignments/oops_assignment.ipynb)
-
+8. [Assignment  8](assignments/20th_november_arrays.ipynb)
 
 ## Contributions
 
