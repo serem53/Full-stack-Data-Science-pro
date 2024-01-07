@@ -25,6 +25,7 @@ In this section, you'll find assignments I completed during my learning journey.
 6. [Assignment  6](assignments/class_practice.ipynb)
 7. [Assignment  7](assignments/oops_assignment.ipynb)
 8. [Assignment  8](assignments/20th_november_arrays.ipynb)
+9. [Assignment  9](assignments/recursion_assignment.ipynb)
 
 ## Contributions
 
