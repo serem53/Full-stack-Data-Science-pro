@@ -28,6 +28,7 @@ In this section, you'll find assignments I completed during my learning journey.
 9. [Assignment  9](/assignments/recursion_assingment.ipynb)
 10. [Assignment  10](/assignments/sorting_assignment.ipynb)
 11. [Assignment  11](/assignments/recurssion.pdf)
+12. [Assignment  12](/assignments/numpy.ipynb) 
    
 
 ## Contributions
